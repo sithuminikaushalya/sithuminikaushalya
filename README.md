@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react,figma**
 
-- 📫 How to reach me **amarasinghesithumini@gmail.com / www.linkedin.com/in/sithumini-amarasinghe**
+- 📫 How to reach me **www.linkedin.com/in/sithumini-amarasinghe**
 
 
 ### Blogs posts
