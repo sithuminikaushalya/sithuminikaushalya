@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
 <p align="center">
-  <img src="URL_OF_YOUR_IMAGE" alt="Your Image" />
+  <img src="[URL_OF_YOUR_IMAGE](https://github.com/sithuminikaushalya/sithuminikaushalya/blob/main/my%20photo.jpg)" alt="Your Image" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="sithuminikaushalya" /> </p>
