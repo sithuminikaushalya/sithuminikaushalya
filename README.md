@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sithumini kaushalya</h1>
-<h3 align="center">A passionate frontend developer & UI/UX Designer</h3>
+<h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="sithuminikaushalya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="sithuminikaushalya" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/sithuminikaushalya/Complete-Results-Management-System](https://github.com/sithuminikaushalya/Complete-Results-Management-System)
+- 🔭 I’m currently working on [bike reservation system](https://github.com/AhamedMinhaj456/Motorbike_Service_Station_Reservation_System)
 
 - 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on [bike reservation system](https://github.com/AhamedMinhaj456/Motorbike_Service_Station_Reservation_System)
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
 
 - 💬 Ask me about **react,figma**
 
 - 📫 How to reach me **amarasinghesithumini@gmail.com / www.linkedin.com/in/sithumini-amarasinghe**
+
+- ⚡ Fun fact **I would like to share knowledge others.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,7 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sithumini amarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithumini amarasinghe" height="30" width="40" /></a>
+<a href="https://kaggle.com/sithumini kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sithumini kaushalya" height="30" width="40" /></a>
 <a href="https://fb.com/sithumini kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithumini kaushalya" height="30" width="40" /></a>
+<a href="https://instagram.com/sithumini kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithumini kaushalya" height="30" width="40" /></a>
 <a href="https://medium.com/@amarasinghesithumini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" /></a>
 </p>
 
