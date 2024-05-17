@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **amarasinghesithumini@gmail.com / www.linkedin.com/in/sithumini-amarasinghe**
 
-- ⚡ Fun fact **I would like to share knowledge others.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
