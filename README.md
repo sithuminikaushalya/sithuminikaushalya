@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sithumini kaushalya</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
+<p align="center">
+  <img src="URL_OF_YOUR_IMAGE" alt="Your Image" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="sithuminikaushalya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="sithuminikaushalya" /></a> </p>
