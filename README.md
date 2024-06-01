@@ -24,9 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sithumini amarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithumini amarasinghe" height="30" width="40" /></a>
-<a href="https://kaggle.com/sithumini kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sithumini kaushalya" height="30" width="40" /></a>
-<a href="https://fb.com/sithumini kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithumini kaushalya" height="30" width="40" /></a>
-<a href="https://instagram.com/sithumini kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithumini kaushalya" height="30" width="40" /></a>
 <a href="https://medium.com/@amarasinghesithumini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" /></a>
 </p>
 
