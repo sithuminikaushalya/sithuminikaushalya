@@ -17,9 +17,14 @@
 - 📫 How to reach me **www.linkedin.com/in/sithumini-amarasinghe**
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## My Blog Posts
+
+### Mastering Git: A Comprehensive Guide for Beginners
+[Mastering Git: A Comprehensive Guide for Beginners](https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74)
+
+### Exploring Programming Paradigms
+[Exploring Programming Paradigms](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
