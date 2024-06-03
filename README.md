@@ -17,7 +17,7 @@
 - 📫 How to reach me **www.linkedin.com/in/sithumini-amarasinghe**
 
 
-## My Blog Posts
+## My Articles
 
 ### Mastering Git: A Comprehensive Guide for Beginners
 [Mastering Git: A Comprehensive Guide for Beginners](https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74)
