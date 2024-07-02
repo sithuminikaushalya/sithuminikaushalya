@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="sithuminikaushalya" /></a> </p>
 
-- 🔭 I’m currently working on [bike reservation system](https://github.com/AhamedMinhaj456/Motorbike_Service_Station_Reservation_System)
-
 - 🌱 I’m currently learning **DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
