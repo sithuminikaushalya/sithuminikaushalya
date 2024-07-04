@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
 
-- 💬 Ask me about **react,figma,DevOps**
+- 💬 Ask me about **React,Figma,DevOps**
 
 - 📫 How to reach me **www.linkedin.com/in/sithumini-amarasinghe**
 
