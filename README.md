@@ -46,7 +46,6 @@
 </p>
 
 ---
----
 
 ### 🌱 I’m currently learning DevOps
 
@@ -60,11 +59,20 @@
 
 ## My Articles
 
-### Mastering Git: A Comprehensive Guide for Beginners
-[![Mastering Git: A Comprehensive Guide for Beginners](https://miro.medium.com/v2/resize:fit:400/format:webp/0*GLsxT9g0VVZHqkWD)](https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74)
-
-### Exploring Programming Paradigms
-[![Exploring Programming Paradigms](https://miro.medium.com/v2/resize:fit:400/format:webp/0*AH3uq9xLmDxyaqsv)](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <div style="flex: 1; text-align: center;">
+    <a href="https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74">
+      <img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*GLsxT9g0VVZHqkWD" alt="Mastering Git" style="max-width: 100%; height: auto;" />
+      <p>Mastering Git: A Comprehensive Guide for Beginners</p>
+    </a>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <a href="https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b">
+      <img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*AH3uq9xLmDxyaqsv" alt="Exploring Programming Paradigms" style="max-width: 100%; height: auto;" />
+      <p>Exploring Programming Paradigms</p>
+    </a>
+  </div>
+</div>
 
 ---
 
