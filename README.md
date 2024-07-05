@@ -12,10 +12,10 @@
 
 <hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="flex: 1; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: center; margin-right: 20px;">
     <p>Contact Me:</p>
-    <p align="center">
+    <p>
       <a href="https://www.linkedin.com/in/sithumini-amarasinghe">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
       </a>
@@ -25,7 +25,7 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center;">
     <img src="image.gif" alt="GIF" style="width: 50%; max-width: 60px;" />
   </div>
 </div>
