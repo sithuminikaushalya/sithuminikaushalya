@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/sithumini-amarasinghe">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://medium.com/@amarasinghesithumini">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" alt="Medium" height="30" width="30" />
+  <a href="https://medium.com/@amarasinghesithumini" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" />
   </a>
 </p>
 
