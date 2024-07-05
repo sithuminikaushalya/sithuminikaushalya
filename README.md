@@ -9,18 +9,20 @@
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-  <div style="flex: 1; text-align: left;">
-    <p align="left">
+  <div style="flex: 1; text-align: center;">
+    <p>Contact Me:</p>
+    <p align="center">
       <a href="https://www.linkedin.com/in/sithumini-amarasinghe">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
       </a>
+      <br>
       <a href="https://medium.com/@amarasinghesithumini" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" />
       </a>
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="image.gif" alt="GIF" width="100" height="100" />
+    <img src="image.gif" alt="GIF" width="300" height="200" />
   </div>
 </div>
 
