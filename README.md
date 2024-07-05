@@ -22,10 +22,10 @@
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="image.gif" alt="GIF" style="width: 100%; max-width: 400px;" />
+    <img src="image.gif" alt="GIF" style="width: 50%; max-width: 100px;" />
   </div>
 </div>
-
+---
 ---
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithuminikaushalya&show_icons=true&locale=en&layout=compact" alt="sithuminikaushalya" />
