@@ -43,8 +43,11 @@
 
 ## My Articles
 
-- [Mastering Git: A Comprehensive Guide for Beginners](https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74)
-- [Exploring Programming Paradigms](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
+### Mastering Git: A Comprehensive Guide for Beginners
+[![Mastering Git: A Comprehensive Guide for Beginners](https://via.placeholder.com/150)](https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74)
+
+### Exploring Programming Paradigms
+[![Exploring Programming Paradigms](https://via.placeholder.com/150)](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
 
 ---
 
