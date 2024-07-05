@@ -8,7 +8,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="sithuminikaushalya" />
   </a>
 </p>
+
 ---
+
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; text-align: center;">
     <p>Contact Me:</p>
@@ -26,6 +28,7 @@
     <img src="image.gif" alt="GIF" style="width: 50%; max-width: 100px;" />
   </div>
 </div>
+
 ---
 
 <p align="center">
@@ -33,6 +36,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&show_icons=true&locale=en" alt="sithuminikaushalya" />
 </p>
@@ -40,6 +44,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithuminikaushalya&" alt="sithuminikaushalya" />
 </p>
+
+---
 ---
 
 ### 🌱 I’m currently learning DevOps
