@@ -7,7 +7,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="sithuminikaushalya" />
   </a>
 </p>
-
+---
 <div style="display: flex; justify-content: space-around;">
   <div style="flex: 1; text-align: center;">
     <p>Contact Me:</p>
@@ -16,20 +16,22 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
       </a>
       <br>
-      <a href="https://medium.com/@amarasinghesithumini" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" />
+      <a href="https://medium.com/@amarasinghesithumini" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" />
       </a>
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="image.gif" alt="GIF" width="300" height="200" />
+    <img src="image.gif" alt="GIF" style="width: 100%; max-width: 400px;" />
   </div>
 </div>
 
+---
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithuminikaushalya&show_icons=true&locale=en&layout=compact" alt="sithuminikaushalya" />
 </p>
 
+---
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&show_icons=true&locale=en" alt="sithuminikaushalya" />
 </p>
@@ -37,6 +39,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithuminikaushalya&" alt="sithuminikaushalya" />
 </p>
+---
 
 ---
 
