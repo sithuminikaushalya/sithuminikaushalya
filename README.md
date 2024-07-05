@@ -58,7 +58,6 @@
 ---
 
 ## My Articles
-
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <div style="flex: 1; text-align: center;">
     <a href="https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74">
@@ -73,6 +72,7 @@
     </a>
   </div>
 </div>
+
 
 ---
 
