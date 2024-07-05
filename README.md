@@ -26,7 +26,7 @@
     </p>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="image.gif" alt="GIF" style="width: 50%; max-width: 100px;" />
+    <img src="image.gif" alt="GIF" style="width: 50%; max-width: 60px;" />
   </div>
 </div>
 
@@ -65,13 +65,13 @@
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <div style="flex: 1; text-align: center; border-right: 1px solid #ccc; padding-right: 20px;">
     <a href="https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74" style="text-decoration: none;">
-      <img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*GLsxT9g0VVZHqkWD" alt="Mastering Git" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+      <img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*GLsxT9g0VVZHqkWD" alt="Mastering Git" style="max-width: 50%; height: auto; margin-bottom: 10px;" />
       <p style="margin-bottom: 0;">Mastering Git: A Comprehensive Guide for Beginners</p>
     </a>
   </div>
   <div style="flex: 1; text-align: center; padding-left: 20px;">
     <a href="https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b" style="text-decoration: none;">
-      <img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*AH3uq9xLmDxyaqsv" alt="Exploring Programming Paradigms" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+      <img src="https://miro.medium.com/v2/resize:fit:400/format:webp/0*AH3uq9xLmDxyaqsv" alt="Exploring Programming Paradigms" style="max-width: 50%; height: auto; margin-bottom: 10px;" />
       <p style="margin-bottom: 0;">Exploring Programming Paradigms</p>
     </a>
   </div>
