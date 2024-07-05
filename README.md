@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sithumini Kaushalya</h1>
 <h3 align="center">A passionate frontend developer, UI/UX Designer, and DevOps enthusiast</h3>
 
----
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="sithuminikaushalya" />
+  <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="sithuminikaushalya" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
----
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="flex: 1; text-align: center;">
     <p>Contact Me:</p>
     <p align="center">
@@ -20,7 +21,7 @@
       </a>
       <br>
       <a href="https://medium.com/@amarasinghesithumini" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarasinghesithumini" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
       </a>
     </p>
   </div>
@@ -29,35 +30,38 @@
   </div>
 </div>
 
----
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithuminikaushalya&show_icons=true&locale=en&layout=compact" alt="sithuminikaushalya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuminikaushalya&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
 </p>
 
----
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&show_icons=true&locale=en" alt="sithuminikaushalya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithuminikaushalya&" alt="sithuminikaushalya" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sithuminikaushalya&theme=dark" alt="GitHub Streak" />
 </p>
 
----
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
-### 🌱 I’m currently learning DevOps
+<h3 align="center">🌱 I’m currently learning DevOps</h3>
 
-### 📝 I regularly write articles on [Medium](https://medium.com/@amarasinghesithumini)
+<h3 align="center">📝 I regularly write articles on <a href="https://medium.com/@amarasinghesithumini">Medium</a></h3>
 
-### 💬 Ask me about React, Figma, DevOps
+<h3 align="center">💬 Ask me about React, Figma, DevOps</h3>
 
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sithumini-amarasinghe)
+<h3 align="center">📫 How to reach me: <a href="https://www.linkedin.com/in/sithumini-amarasinghe">LinkedIn</a></h3>
 
----
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
-## My Articles
+<h2 align="center">My Articles</h2>
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <div style="flex: 1; text-align: center; border-right: 1px solid #ccc; padding-right: 20px;">
     <a href="https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74" style="text-decoration: none;">
@@ -73,12 +77,11 @@
   </div>
 </div>
 
+<hr style="height:2px;border-width:0;color:aqua;background-color:aqua;width:50%">
 
+<h3 align="center">Languages and Tools:</h3>
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
