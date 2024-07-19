@@ -9,7 +9,7 @@
 ---
 
 - 🔭 I’m currently working on [playtune](https://github.com/sithuminikaushalya/Media-Platform-PlayTune)
-- 🌱 I’m currently learning *DevOps*
+- 🌱 I’m currently learning *DevOps* & *Angular*
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
 
