@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on [playtune](https://github.com/sithuminikaushalya/Media-Platform-PlayTune) 
+- 🔭 I’m currently working on [Laravel](https://github.com/sithuminikaushalya/Media-Platform-PlayTune) 
 - 🌱 I’m currently learning DevOps , php & Angular
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
