@@ -28,7 +28,7 @@
 [Exploring Programming Paradigms](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
 
 ### Setting Up a Laravel Project and Understanding the File Structure
-[Setting Up a Laravel Project and Understanding the File Structure]([https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b](https://medium.com/p/56e4c9d5c683))
+[Setting Up a Laravel Project and Understanding the File Structure](https://medium.com/p/56e4c9d5c683)
 
 
 <h3 align="left">Connect with me:</h3>
