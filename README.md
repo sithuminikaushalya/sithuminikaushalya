@@ -24,8 +24,6 @@
 ---
 
 
----
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithuminikaushalya&show_icons=true&locale=en&layout=compact&cache_bust=1" alt="Top Languages" height="150" />
 <img src="https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&show_icons=true&locale=en&cache_bust=1" alt="Stats" height="150" />
