@@ -12,7 +12,7 @@
 
 ---
 
-- 🔭 I’m currently working on Laravel and Flutter.
+- 🔭 I’m currently working on Laravel and Flutter Projects.
 - 🌱 I’m currently learning DevOps, Laravel
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
