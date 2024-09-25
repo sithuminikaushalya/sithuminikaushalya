@@ -29,15 +29,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sithuminikaushalya&show_icons=true&locale=en&layout=compact&cache_bust=1" alt="Top Languages" height="150" />
-<img src="https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&show_icons=true&locale=en&cache_bust=1" alt="Stats" height="150" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sithuminikaushalya&" alt="sithuminikaushalya" />
-</p>
-
-<div align="center">
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sithuminikaushalya?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
   <img src="https://streak-stats.demolab.com?user=sithuminikaushalya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
