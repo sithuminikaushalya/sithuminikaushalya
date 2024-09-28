@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="sithuminikaushalya" /> </p>
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app?username=sithuminikaushalya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sithuminikaushalya" alt="GitHub Trophies" />
+  </a>
+</p>
 
 
 ###
