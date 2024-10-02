@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini)
 
-- 💬 Ask me about React, Figma, DevOps
+- 💬 Ask me about MERN, Laravel , WordPress, Figma, DevOps
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sithumini-amarasinghe)
 
