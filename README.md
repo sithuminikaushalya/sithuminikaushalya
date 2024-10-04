@@ -44,6 +44,9 @@
 ### Mastering Git: A Comprehensive Guide for Beginners
 [Mastering Git: A Comprehensive Guide for Beginners](https://medium.com/@amarasinghesithumini/mastering-git-a-comprehensive-guide-for-beginners-3c5156c6ec74)
 
+### Collaborating Like a Pro: Advanced GitHub Techniques
+[Collaborating Like a Pro: Advanced GitHub Techniques](https://medium.com/@amarasinghesithumini/collaborating-like-a-pro-advanced-github-techniques-8ee24fdede34)
+
 ### Exploring Programming Paradigms
 [Exploring Programming Paradigms](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
 
