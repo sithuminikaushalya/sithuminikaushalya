@@ -47,11 +47,11 @@
 ### Collaborating Like a Pro: Advanced GitHub Techniques
 [Collaborating Like a Pro: Advanced GitHub Techniques](https://medium.com/@amarasinghesithumini/collaborating-like-a-pro-advanced-github-techniques-8ee24fdede34)
 
-### Exploring Programming Paradigms
-[Exploring Programming Paradigms](https://medium.com/@amarasinghesithumini/exploring-programming-paradigms-a9bfb5e4bb6b)
+### Mastering Git: Amend, Revert, Reset, Reflog, and Advanced Command Techniques
+[Mastering Git: Amend, Revert, Reset, Reflog, and Advanced Command Techniques](https://medium.com/@amarasinghesithumini/mastering-git-amend-revert-reset-reflog-and-advanced-command-techniques-5702e4c251ab)
 
 ### Setting Up a Laravel Project and Understanding the File Structure
-[Setting Up a Laravel Project and Understanding the File Structure](https://medium.com/p/56e4c9d5c683)
+[Setting Up a Laravel Project and Understanding the File Structure](https://medium.com/@amarasinghesithumini/setting-up-a-laravel-project-and-understanding-the-file-structure-56e4c9d5c683)
 
 ---
 
