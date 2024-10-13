@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on Laravel, WordPress Plugin Development, and Flutter Projects.
 - 🌱 I’m currently learning Laravel
 
-- 📝 I regularly write articles on ([https://medium.com/@amarasinghesithumini](https://medium.com/@amarasinghesithumini))
+- 📝 I regularly write articles on [Medium](https://medium.com/@amarasinghesithumini)
 
 - 💬 Ask me about MERN, Laravel , WordPress, Figma, DevOps
 
