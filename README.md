@@ -55,15 +55,15 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sithumini-amarasinghe/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Logo" />
   </a>
   <a href="https://medium.com/@amarasinghesithumini" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="Medium Logo" />
   </a>
-  <!-- Add more social links as needed -->
+  <!-- Add more social links here, if needed -->
 </div>
 
 --- 
