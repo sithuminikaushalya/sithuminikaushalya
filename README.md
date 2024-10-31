@@ -142,12 +142,6 @@
   </a> 
 
   <!-- Additional icons -->
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.svg" alt="WordPress" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
-  </a> 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
   </a> 
