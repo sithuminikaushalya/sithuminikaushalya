@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sithumini Kaushalya</h1>
-<h3 align="center">A passionate MERN developer and UI/UX Designer and DevOps enthusiastic</h3>
+<!-- <h3 align="center">A passionate MERN developer and UI/UX Designer and DevOps enthusiastic</h3> -->
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=83F757&width=435&lines=A+passionate+MERN+developer;UI%2FUX+Designer;DevOps+Enthusiast;Laravel+Developer;Quick+Learner" alt="Typing SVG" />
+  </a>
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithuminikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="sithuminikaushalya" /> </p>
 
