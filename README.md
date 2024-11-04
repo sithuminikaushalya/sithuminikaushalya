@@ -60,6 +60,9 @@
 ### [Setting Up a Laravel Project and Understanding the File Structure](https://medium.com/@amarasinghesithumini/setting-up-a-laravel-project-and-understanding-the-file-structure-56e4c9d5c683)
 > A comprehensive guide to setting up a Laravel project and exploring its file structure.
 
+### [Streamlining Code Collaboration: A Guide to GitHub Pull Requests](https://medium.com/@amarasinghesithumini/streamlining-code-collaboration-a-guide-to-github-pull-requests-c644070e7abd)
+> A complete guide to making a pull request
+
 ---
 
 <h3 align="left">🤝 Connect with me:</h3>
