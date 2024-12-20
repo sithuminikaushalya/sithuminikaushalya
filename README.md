@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithumini Kaushalya</h1>
-<h3 align="center">A passionate MERN developer and UI/UX Designer and DevOps enthusiastic</h3>
+<h3 align="center">A passionate MERN developer, Laravel developer, UI/UX Designer and DevOps enthusiastic</h3>
 <!-- <div align="center">
   <h3>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
