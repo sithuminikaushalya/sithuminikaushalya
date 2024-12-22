@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amarasinghesithumini)
 
-- 💬 Ask me about MERN, Laravel , WordPress, Figma, DevOps
+- 💬 Ask me about MERN, Laravel, DevOps
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sithumini-amarasinghe)
 
