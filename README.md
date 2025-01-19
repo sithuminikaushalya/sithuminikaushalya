@@ -23,8 +23,8 @@
 
 ---
 
-- 🔭 I’m currently working on Laravel, WordPress Plugin Development, and Flutter Projects.
-- 🌱 I’m currently learning Laravel & DevOps
+- 🔭 I’m working on Laravel, React, WordPress Plugin Development, and Flutter Projects.
+- 🌱 I’m currently learning DevOps
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amarasinghesithumini)
 
