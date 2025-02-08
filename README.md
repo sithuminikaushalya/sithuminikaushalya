@@ -24,7 +24,7 @@
 ---
 
 - 🔭 I’m working on Laravel, React, WordPress Plugin Development, and Flutter Projects.
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps & Cloud
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amarasinghesithumini)
 
