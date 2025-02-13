@@ -54,8 +54,8 @@
 ### [Collaborating Like a Pro: Advanced GitHub Techniques](https://medium.com/@amarasinghesithumini/collaborating-like-a-pro-advanced-github-techniques-8ee24fdede34)
 > Discover advanced GitHub techniques to enhance your collaboration skills.
 
-### [Mastering Git: Amend, Revert, Reset, Reflog, and Advanced Command Techniques](https://medium.com/@amarasinghesithumini/mastering-git-amend-revert-reset-reflog-and-advanced-command-techniques-5702e4c251ab)
-> Dive into advanced Git commands to gain greater control over your version history.
+<!-- ### [Mastering Git: Amend, Revert, Reset, Reflog, and Advanced Command Techniques](https://medium.com/@amarasinghesithumini/mastering-git-amend-revert-reset-reflog-and-advanced-command-techniques-5702e4c251ab)
+> Dive into advanced Git commands to gain greater control over your version history. -->
 
 ### [Setting Up a Laravel Project and Understanding the File Structure](https://medium.com/@amarasinghesithumini/setting-up-a-laravel-project-and-understanding-the-file-structure-56e4c9d5c683)
 > A comprehensive guide to setting up a Laravel project and exploring its file structure.
