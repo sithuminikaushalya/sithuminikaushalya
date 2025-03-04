@@ -66,6 +66,7 @@
 -->
 ---
 
+<!--
 <h3 align="left">🤝 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sithumini-amarasinghe/" target="_blank">
@@ -74,14 +75,14 @@
   <a href="https://medium.com/@amarasinghesithumini" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="Medium Logo" />
   </a>
-  <!-- Add more social links here, if needed -->
+  
 </div>
 
 --- 
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Existing icons -->
+  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a> 
@@ -151,7 +152,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> 
   </a> 
-
+-->
   <!-- Additional icons -->
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
