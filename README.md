@@ -44,7 +44,6 @@
 
 </div>
 
----
 
 <!--
 ## 📚 My Articles
@@ -152,8 +151,8 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> 
   </a> 
--->
-  <!-- Additional icons -->
+
+
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/> 
   </a> 
@@ -161,4 +160,4 @@
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> 
   </a> 
 </p>
-
+-->
