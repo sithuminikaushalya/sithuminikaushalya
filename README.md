@@ -23,7 +23,7 @@
 
 ---
 
-- 🔭 I’m working on Laravel, React, WordPress Plugin Development, and Flutter Projects.
+- 🔭 I’m working on Laravel, MERN, WordPress Plugin Development, and Flutter Projects.
 - 🌱 I’m currently learning DevOps & Cloud
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@amarasinghesithumini)
@@ -62,9 +62,9 @@
 
 ### [Streamlining Code Collaboration: A Guide to GitHub Pull Requests](https://medium.com/@amarasinghesithumini/streamlining-code-collaboration-a-guide-to-github-pull-requests-c644070e7abd)
 > A complete guide to making a pull request
--->
----
 
+---
+-->
 <!--
 <h3 align="left">🤝 Connect with me:</h3>
 <div align="left">
